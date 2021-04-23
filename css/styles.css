@@ -1,0 +1,139 @@
+
+table  {
+    line-height:1.5;
+    text-align:left;
+    
+
+}
+
+p {
+    margin-bottom: 80px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size:16px;
+    
+}
+
+div {
+    background-color:  hsl(0, 0%, 95%);
+    padding-bottom: 30%;
+}
+
+h3 {
+    color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display', cursive;
+    font-size:35px;
+
+}
+
+
+
+.one {
+    padding: 20px;
+    background-color:hsl(31, 77%, 52%);
+    color: hsla(0, 0%, 100%, 0.75);
+    width: 20%;
+    display:inline-block;
+    position:relative;
+    margin-top: 30%;
+    padding: 40px 50px 40px 50px;
+    margin-left: 10%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.two  {
+    padding: 20px;
+    
+    background-color: hsl(184, 100%, 22%);
+    color: hsla(0, 0%, 100%, 0.75);
+    width: 20%;
+    display:inline-block;
+    position:relative;
+    margin-top: 30%;
+    padding: 40px 50px 40px 50px;
+    
+}
+    
+    
+    
+
+
+
+.three  {
+    padding: 20px;
+  
+    background-color: hsl(179, 100%, 13%);
+    color: hsla(0, 0%, 100%, 0.75);
+    width: 20%;
+    display:inline-block;
+    position:relative;    
+ margin-top: 30%;
+ padding: 40px 50px 40px 50px;
+ border-bottom-right-radius: 10px;
+ border-top-right-radius: 10px;
+}
+
+.btn {
+    margin-top: 30px;
+}
+
+.btn1 {
+    -webkit-border-radius: 50;
+    -moz-border-radius: 50;
+    border-radius: 50px;
+    font-family: Arial;
+    color:  hsl(31, 77%, 52%);
+    font-size: 20px;
+    background: hsl(0, 0%, 95%);
+    padding: 10px 20px 10px 20px;
+    border: solid  hsl(0, 0%, 95%) 2px;
+    text-decoration: none;
+    
+  }
+  
+  .btn1:hover {
+    background:  hsl(31, 77%, 52%);
+    text-decoration: none;
+    color:hsl(0, 0%, 95%);
+  }
+
+
+  .btn2 {
+     
+    -webkit-border-radius: 50;
+    -moz-border-radius: 50;
+    border-radius: 50px;
+    font-family: Arial;
+    color:  hsl(184, 100%, 22%);
+    font-size: 20px;
+    background: hsl(0, 0%, 95%);
+    padding: 10px 20px 10px 20px;
+    border: solid  hsl(0, 0%, 95%) 2px;
+    text-decoration: none;
+  }
+  
+  .btn2:hover {
+    background:  hsl(184, 100%, 22%);
+    text-decoration: none;
+    color:hsl(0, 0%, 95%);
+  }
+
+
+  .btn3 {
+    -webkit-border-radius: 50;
+    -moz-border-radius: 50;
+    border-radius: 50px;
+    font-family: Arial;
+    color:  hsl(179, 100%, 13%);
+    font-size:20px;
+    background-color: hsl(0, 0%, 95%);
+    padding: 10px 20px 10px 20px;
+    border: solid  hsl(0, 0%, 95%) 2px;
+    text-decoration: none;
+  }
+  
+  .btn3:hover {
+    background:  hsl(179, 100%, 13%);
+    text-decoration: none;
+    color:hsl(0, 0%, 95%);
+  }
