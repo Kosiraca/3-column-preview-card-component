@@ -6,6 +6,10 @@ table  {
 
 }
 
+body {
+    margin:0;
+}
+
 p {
     margin-bottom: 80px;
     font-family: 'Lexend Deca', sans-serif;
